@@ -5,7 +5,7 @@ import matplotlib.cm as cm
 plt.rcParams['font.family'] = 'Malgun Gothic'
 
 #엑셀 파일 읽기
-file_path = file_path = 'C:/Users/LG/Desktop/박혜인/5. Python/grade.xlsx'
+file_path = file_path = 'C:/Users/LG/Desktop/Parkhyein/5. Python/grade.xlsx'
 df = pd.read_excel(file_path)
 
 #데이터 출력
